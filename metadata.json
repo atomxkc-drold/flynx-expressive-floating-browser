@@ -1,0 +1,6 @@
+{
+  "name": "Flynx Expressive - Floating Browser & Reader",
+  "description": "An interactive floating browser simulation with Google Messages spring physics, Material You Expressive design, multi-tab background loading, and distraction-free reader mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
